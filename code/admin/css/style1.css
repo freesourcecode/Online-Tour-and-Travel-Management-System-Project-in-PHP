@@ -1,0 +1,6 @@
+ .-success.popup--icon .popup__content:before {
+  border-color: #EF5289;
+}
+.-success.popup--icon .popup__content:after {
+  content: '\2713';
+  color: #EF5289;
